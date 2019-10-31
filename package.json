@@ -1,0 +1,21 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A discord bot",
+  "main": "bot.js",
+  "scripts": {
+      "start": "node bot.js"
+    },
+  "keywords": [],
+  "author": "Samarti",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "request": "2.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  }
+}
